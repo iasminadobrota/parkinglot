@@ -11,6 +11,7 @@
     main {
         flex: 1;
     }
+
     footer {
         background-color: #212529;
         color: white;
